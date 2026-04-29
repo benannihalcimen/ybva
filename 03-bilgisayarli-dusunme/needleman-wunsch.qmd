@@ -1,6 +1,6 @@
 # Needleman-Wunsch Algoritması
 
-Bu algoritma, iki nükleotit dizisini baştan sona en uygun şekilde eşleştirmek için Dinamik Programlama yöntemini kullanır. Süreç iki ana aşamadan oluşur: Matris Doldurma ve Geri İzleme(Traceback)
+Bu algoritma, iki nükleotit dizisini baştan sona en uygun şekilde eşleştirmek için Dinamik Programlama yöntemini kullanır. Süreç iki ana aşamadan oluşmaktadır: Matris Doldurma ve Geri İzleme(Traceback)
 
 ```{r}
 d1_vektor <- c("A","A","C","G")
